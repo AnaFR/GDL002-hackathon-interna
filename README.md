@@ -5,7 +5,7 @@
 - [Descripción de la aplicación](#descripcion-de-la-apliación)
 - [D.O.D](##D.O.D)
 
-
+---
 ## Descripción de la aplicación
 
 FeelMovies es una aplicación que te da recomendaciones de películas de acuerdo con el estado de ánimo que elija el usuario.
