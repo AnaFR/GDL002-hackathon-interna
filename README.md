@@ -1,17 +1,16 @@
-# "Hackathon" de final de _Common Core_, películas
+# "FeelMovies
 
 ## Índice
 
-- [Preámbulo](#preámbulo)
+- [Descripción de la aplicación](# Descripción de la aplicación)
 - [Resumen del proyecto](#resumen-del-proyecto)
 - [Consideraciones generales](#consideraciones-generales)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Parte obligatoria](#parte-obligatoria)
 - [Consideraciones técnicas](#consideraciones-técnicas)
 
----
 
-## FeelMovies
+## Descripción de la aplicación
 ===================
 
 FeelMovies es una aplicación que te da recomendaciones de películas de acuerdo con el estado de ánimo que elija el usuario.
