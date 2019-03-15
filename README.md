@@ -118,15 +118,17 @@ A partir de las iteraciones de los prototipos de baja fidelidad se procedió a r
 Los prototipos de alta fidelidad pueden ser observados dentro de la carpeta de "img" (https://www.figma.com/file/FuN9QxMvO2KPHCiVZXtUDLQ0/FeelMovies?node-id=29%3A115).
 
 
-##Este proyecto fue elaborado por:
+## Este proyecto fue elaborado por:
 
-**UX**
-Andrea Díaz Hernández: Protoripos de alta definición; CSS utilizando framework bootstrap y funcionalidad de main.js,  entrevistas e investigación de usuarios. 
+## UX
 
-Didre Verde Valle: Prototipos de baja definición, redaccción de README, entrevistas e investigación de usuarios y apoyo a diseño visual.
+**Andrea Díaz Hernández:** Protoripos de alta definición; CSS utilizando framework bootstrap y funcionalidad de main.js, entrevistas e investigación de usuarios. 
+
+**Didre Verde Valle:** Prototipos de baja definición, redaccción de README, entrevistas e investigación de usuarios y apoyo a diseño visual.
 
 **Front-End**
-Nancy Rodríguez López:  Elaboración data.js. y main.js, y  apoyo a todo en el equipo en diversas tareas.
 
-Ana Laura Flores: Elaboracuón de data.js, redacción del README.  y  apoyo a todo en el equipo en diversas tareas.
+**Nancy Rodríguez López:**  Elaboración data.js. y main.js, y  apoyo a todo en el equipo en diversas tareas.
+
+**Ana Laura Flores:** Elaboracuón de data.js, redacción del README.  y  apoyo a todo en el equipo en diversas tareas.
 
