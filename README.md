@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Descripción de la aplicación](# Descripción de la aplicación)
+- [Descripción de la aplicación](#Descripción de la aplicación)
 - [Resumen del proyecto](#resumen-del-proyecto)
 - [Consideraciones generales](#consideraciones-generales)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
