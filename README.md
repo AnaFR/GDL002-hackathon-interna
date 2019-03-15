@@ -1,12 +1,12 @@
-# "FeelMovies
+# FeelMovies
 
 ## Índice
 
 - [Descripción de la aplicación](##Descripcion-de-la-apliación)
-- [Resumen del proyecto](#resumen-del-proyecto)
+- [D.O.D](##D.O.D)
 
 
-## Descripción de la aplicación
+##Descripción de la aplicación
 
 FeelMovies es una aplicación que te da recomendaciones de películas de acuerdo con el estado de ánimo que elija el usuario.
 
