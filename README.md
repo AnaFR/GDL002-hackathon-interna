@@ -126,9 +126,9 @@ Los prototipos de alta fidelidad pueden ser observados dentro de la carpeta de "
 
 **Didre Verde Valle:** Prototipos de baja definición, redaccción de README, entrevistas e investigación de usuarios y apoyo a diseño visual.
 
-**Front-End**
+**FRONT-END**
 
-**Nancy Rodríguez López:**  Elaboración data.js. y main.js, y  apoyo a todo en el equipo en diversas tareas.
+**Nancy Rodríguez López:**  Elaboración data.js., main.js, y  apoyo a todo en el equipo en diversas tareas.
 
 **Ana Laura Flores:** Elaboracuón de data.js, redacción del README.  y  apoyo a todo en el equipo en diversas tareas.
 
