@@ -33,7 +33,7 @@ Se realizó una encuesta con 5 personas  para poder conocer más sobre las prefe
 
 ![Foto para tablet](https://github.com/AnaFR/GDL002-hackathon-interna/blob/master/img/Imagen%20de%20iOS%20(1).jpg)
 
-
+![Foto para Computadora](https://github.com/AnaFR/GDL002-hackathon-interna/blob/master/img/Imagen%20de%20iOS.jpg)
 
 
 
